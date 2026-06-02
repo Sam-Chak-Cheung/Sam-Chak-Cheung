@@ -41,7 +41,7 @@ I am especially interested in practical security implementation for Australian o
 
 ## Contact
 
-- LinkedIn: Add LinkedIn profile URL
+- LinkedIn: (https://www.linkedin.com/in/samuel-cheung-14750944/)
 - GitHub: [Sam-Chak-Cheung](https://github.com/Sam-Chak-Cheung)
 
 ## Disclaimer

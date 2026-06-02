@@ -33,6 +33,7 @@ My focus is on practical security engineering: building controls, reviewing envi
 - [CPS234 Compliance Toolkit](https://github.com/Sam-Chak-Cheung/cps234-compliance-toolkit)
 - [Azure Security Assessment](https://github.com/Sam-Chak-Cheung/azure-security-assessment)
 - [AI Security Lab](https://github.com/Sam-Chak-Cheung/ai-security-lab)
+- [Application Security Lab](https://github.com/Sam-Chak-Cheung/appsec-lab)
 - [Security Hardening Toolkit](https://github.com/Sam-Chak-Cheung/security-hardening-toolkit)
 
 ## Australian Cybersecurity Focus
